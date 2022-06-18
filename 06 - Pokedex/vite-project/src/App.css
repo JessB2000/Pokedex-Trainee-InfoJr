@@ -1,0 +1,207 @@
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+button {
+    font-size: calc(10px + 2vmin);
+}
+
+.simbolo {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 62px;
+    letter-spacing: -0.03em;
+    /* gray/900 */
+    color: #1E293B;
+    text-align: center;
+}
+
+.logoPoke {
+    list-style: none;
+    text-decoration: none;
+    width: 36px;
+    height: 36px;
+    margin-top: 36px;
+    margin-left: 140px;
+    margin-block-end: 34px;
+}
+
+li {
+    list-style: none;
+    text-decoration: none;
+}
+
+.text-final {
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+@media (min-width: 375px) {
+    .logoPoke {
+        list-style: none;
+        text-decoration: none;
+        width: 36px;
+        height: 36px;
+        margin-top: 36px;
+        margin-left: 170px;
+        margin-block-end: 34px;
+    }
+}
+
+@media (min-width: 425px) {
+    .logoPoke {
+        list-style: none;
+        text-decoration: none;
+        width: 36px;
+        height: 36px;
+        margin-top: 36px;
+        margin-left: 190px;
+        margin-block-end: 34px;
+    }
+}
+
+@media (min-width: 768px) {
+    .logoPoke {
+        list-style: none;
+        text-decoration: none;
+        width: 36px;
+        height: 36px;
+        margin-top: 36px;
+        margin-left: 380px;
+        margin-block-end: 34px;
+    }
+    .todos {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .simbolo {
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 62px;
+        letter-spacing: -0.03em;
+        /* gray/900 */
+        color: #1E293B;
+        margin-left: -500px;
+    }
+}
+
+@media (min-width: 375px) {
+    .logoPoke {
+        list-style: none;
+        text-decoration: none;
+        width: 36px;
+        height: 36px;
+        margin-top: 36px;
+        margin-left: 170px;
+        margin-block-end: 34px;
+    }
+}
+
+@media (min-width: 425px) {
+    .logoPoke {
+        list-style: none;
+        text-decoration: none;
+        width: 36px;
+        height: 36px;
+        margin-top: 36px;
+        margin-left: 190px;
+        margin-block-end: 34px;
+    }
+}
+
+@media (min-width: 768px) {
+    .logoPoke {
+        list-style: none;
+        text-decoration: none;
+        width: 36px;
+        height: 36px;
+        margin-top: 36px;
+        margin-left: 380px;
+        margin-block-end: 34px;
+    }
+    .todos {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .simbolo {
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 62px;
+        letter-spacing: -0.03em;
+        /* gray/900 */
+        color: #1E293B;
+        margin-left: -500px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .logoPoke {
+        list-style: none;
+        text-decoration: none;
+        width: 36px;
+        height: 36px;
+        margin-top: 36px;
+        margin-left: 600px;
+        margin-block-end: 34px;
+    }
+    .todos {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .simbolo {
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 62px;
+        letter-spacing: -0.03em;
+        /* gray/900 */
+        color: #1E293B;
+        margin-left: -910px;
+    }
+}

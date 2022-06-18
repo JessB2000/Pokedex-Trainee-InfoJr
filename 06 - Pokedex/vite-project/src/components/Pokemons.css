@@ -1,0 +1,1143 @@
+.tipo-grass {
+    border-radius: 24px;
+    background: rgba(122, 199, 76, 0.1);
+    display: flex;
+    flex-direction: row-reverse;
+    height: 167px;
+    justify-content: center;
+    margin-right: 26px;
+    margin-top: 24px;
+}
+
+.tipo-fire {
+    border-radius: 24px;
+    background: rgba(238, 129, 48, 0.1);
+    display: flex;
+    flex-direction: row-reverse;
+    height: 167px;
+    justify-content: center;
+    margin-right: 26px;
+    margin-top: 24px;
+}
+
+.tipo-water {
+    border-radius: 24px;
+    background: #94DBEE;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 167px;
+    justify-content: center;
+    margin-right: 26px;
+    margin-top: 24px;
+}
+
+.tipo-bug {
+    border-radius: 24px;
+    background: #C6D16E;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 167px;
+    justify-content: center;
+    margin-right: 26px;
+    margin-top: 24px;
+}
+
+.tipo-normal {
+    border-radius: 24px;
+    background: #C6C6A7;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 167px;
+    justify-content: center;
+    margin-right: 26px;
+    margin-top: 24px;
+}
+
+.tipo-electric {
+    border-radius: 24px;
+    background: #FAE078;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 167px;
+    justify-content: center;
+    margin-right: 26px;
+    margin-top: 24px;
+}
+
+.tipo-ice {
+    border-radius: 24px;
+    background: #BCE6E6;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 167px;
+    justify-content: center;
+    margin-right: 26px;
+    margin-top: 24px;
+}
+
+.tipo-fighting {
+    border-radius: 24px;
+    background: #D67873;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 167px;
+    justify-content: center;
+    margin-right: 26px;
+    margin-top: 24px;
+}
+
+.tipo-ground {
+    border-radius: 24px;
+    background: #EBD69D;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 167px;
+    justify-content: center;
+    margin-right: 26px;
+    margin-top: 24px;
+}
+
+.tipo-psychic {
+    border-radius: 24px;
+    background: #FA92B2;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 167px;
+    justify-content: center;
+    margin-right: 26px;
+    margin-top: 24px;
+}
+
+.tipo-rock {
+    border-radius: 24px;
+    background: #D1C17D;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 167px;
+    justify-content: center;
+    margin-right: 26px;
+    margin-top: 24px;
+}
+
+.tipo-ghost {
+    border-radius: 24px;
+    background: #A292BC;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 167px;
+    justify-content: center;
+    margin-right: 26px;
+    margin-top: 24px;
+}
+
+.tipo-dark {
+    border-radius: 24px;
+    background: #767775;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 167px;
+    justify-content: center;
+    margin-right: 26px;
+    margin-top: 24px;
+}
+
+.tipo-steel {
+    border-radius: 24px;
+    background: #D1D1E0;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 167px;
+    justify-content: center;
+    margin-right: 26px;
+    margin-top: 24px;
+}
+
+.tipo-fairy {
+    border-radius: 24px;
+    background: #F4BDC9;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 167px;
+    justify-content: center;
+    margin-right: 26px;
+    margin-top: 24px;
+}
+
+.tipo-dragon {
+    border-radius: 24px;
+    background: #A27DFA;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 167px;
+    justify-content: center;
+    margin-right: 26px;
+    margin-top: 24px;
+}
+
+.names {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31px;
+    letter-spacing: -0.04em;
+    text-transform: capitalize;
+    margin-top: 24px;
+}
+
+.conjunto1 {
+    padding-left: 26px;
+}
+
+img {
+    width: 130px;
+    height: 165px;
+}
+
+.grass {
+    width: 39px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    /* white */
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: #7AC74C;
+    width: 55px;
+    height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    display: grid;
+}
+
+.poison {
+    width: 39px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    /* white */
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: #A33EA1;
+    width: 60px;
+    height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    display: grid;
+}
+
+.fire {
+    width: 39px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    /* white */
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: #EE8130;
+    width: 40px;
+    height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    display: grid;
+}
+
+.flying {
+    width: 39px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    /* white */
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: #A98FF3;
+    width: 55px;
+    height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    display: grid;
+}
+
+.water {
+    width: 39px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    /* white */
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: #6390F0;
+    width: 60px;
+    height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    display: grid;
+}
+
+.bug {
+    width: 39px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    /* white */
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: #A6B91A;
+    width: 40px;
+    height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    display: grid;
+}
+
+.normal {
+    width: 39px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    /* white */
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: #A8A77A;
+    width: 60px;
+    height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    display: grid;
+}
+
+.electric {
+    width: 39px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    /* white */
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: #F7D02C;
+    width: 60px;
+    height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    display: grid;
+}
+
+.ice {
+    width: 39px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    /* white */
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: #96D9D6;
+    width: 40px;
+    height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    display: grid;
+}
+
+.fighting {
+    width: 39px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    /* white */
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: #C22E28;
+    width: 70px;
+    height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    display: grid;
+}
+
+.ground {
+    width: 39px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    /* white */
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: #E2BF65;
+    width: 60px;
+    height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    display: grid;
+}
+
+.psychic {
+    width: 39px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    /* white */
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: #F95587;
+    width: 60px;
+    height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    display: grid;
+}
+
+.rock {
+    width: 39px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    /* white */
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: #B6A136;
+    width: 40px;
+    height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    display: grid;
+}
+
+.ghost {
+    width: 39px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    /* white */
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: #735797;
+    width: 60px;
+    height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    display: grid;
+}
+
+.dragon {
+    width: 39px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    /* white */
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: #6F35FC;
+    width: 60px;
+    height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    display: grid;
+}
+
+.dark {
+    width: 39px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    /* white */
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: #705746;
+    width: 60px;
+    height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    display: grid;
+}
+
+.steel {
+    width: 39px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    /* white */
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: #B7B7CE;
+    width: 60px;
+    height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    display: grid;
+}
+
+.fairy {
+    width: 39px;
+    height: 16px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    /* white */
+    color: #FFFFFF;
+    border-radius: 50px;
+    background: #D685AD;
+    width: 60px;
+    height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    display: grid;
+}
+
+@media (min-width: 425px) {
+    .tipo-grass {
+        border-radius: 24px;
+        background: rgba(122, 199, 76, 0.1);
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-fire {
+        border-radius: 24px;
+        background: rgba(238, 129, 48, 0.1);
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-water {
+        border-radius: 24px;
+        background: #94DBEE;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-bug {
+        border-radius: 24px;
+        background: #C6D16E;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-normal {
+        border-radius: 24px;
+        background: #C6C6A7;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-electric {
+        border-radius: 24px;
+        background: #FAE078;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-ice {
+        border-radius: 24px;
+        background: #BCE6E6;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-fighting {
+        border-radius: 24px;
+        background: #D67873;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-ground {
+        border-radius: 24px;
+        background: #EBD69D;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-psychic {
+        border-radius: 24px;
+        background: #FA92B2;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-rock {
+        border-radius: 24px;
+        background: #D1C17D;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-ghost {
+        border-radius: 24px;
+        background: #A292BC;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-dark {
+        border-radius: 24px;
+        background: #767775;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-steel {
+        border-radius: 24px;
+        background: #D1D1E0;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-fairy {
+        border-radius: 24px;
+        background: #F4BDC9;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-dragon {
+        border-radius: 24px;
+        background: #A27DFA;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+}
+
+@media (min-width: 768px) {
+    .tipo-grass {
+        border-radius: 24px;
+        background: rgba(122, 199, 76, 0.1);
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-fire {
+        border-radius: 24px;
+        background: rgba(238, 129, 48, 0.1);
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-water {
+        border-radius: 24px;
+        background: #94DBEE;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-bug {
+        border-radius: 24px;
+        background: #C6D16E;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-normal {
+        border-radius: 24px;
+        background: #C6C6A7;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-electric {
+        border-radius: 24px;
+        background: #FAE078;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-ice {
+        border-radius: 24px;
+        background: #BCE6E6;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-fighting {
+        border-radius: 24px;
+        background: #D67873;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-ground {
+        border-radius: 24px;
+        background: #EBD69D;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-psychic {
+        border-radius: 24px;
+        background: #FA92B2;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-rock {
+        border-radius: 24px;
+        background: #D1C17D;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-ghost {
+        border-radius: 24px;
+        background: #A292BC;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-dark {
+        border-radius: 24px;
+        background: #767775;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-steel {
+        border-radius: 24px;
+        background: #D1D1E0;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-fairy {
+        border-radius: 24px;
+        background: #F4BDC9;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-dragon {
+        border-radius: 24px;
+        background: #A27DFA;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-right: 26px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .tipo-grass {
+        border-radius: 24px;
+        background: rgba(122, 199, 76, 0.1);
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-left: 50px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-fire {
+        border-radius: 24px;
+        background: rgba(238, 129, 48, 0.1);
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-left: 50px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-water {
+        border-radius: 24px;
+        background: #94DBEE;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-left: 50px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-bug {
+        border-radius: 24px;
+        background: #C6D16E;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-left: 50px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-normal {
+        border-radius: 24px;
+        background: #C6C6A7;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        /*margin-right: 26px;*/
+        margin-left: 50px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-electric {
+        border-radius: 24px;
+        background: #FAE078;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-left: 50px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-ice {
+        border-radius: 24px;
+        background: #BCE6E6;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-left: 50px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-fighting {
+        border-radius: 24px;
+        background: #D67873;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-left: 50px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-ground {
+        border-radius: 24px;
+        background: #EBD69D;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-left: 50px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-psychic {
+        border-radius: 24px;
+        background: #FA92B2;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-left: 50px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-rock {
+        border-radius: 24px;
+        background: #D1C17D;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-left: 50px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-ghost {
+        border-radius: 24px;
+        background: #A292BC;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-left: 50px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-dark {
+        border-radius: 24px;
+        background: #767775;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-left: 50px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-steel {
+        border-radius: 24px;
+        background: #D1D1E0;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-left: 50px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-fairy {
+        border-radius: 24px;
+        background: #F4BDC9;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-left: 50px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+    .tipo-dragon {
+        border-radius: 24px;
+        background: #A27DFA;
+        display: flex;
+        flex-direction: row-reverse;
+        height: 167px;
+        width: 324px;
+        justify-content: center;
+        margin-left: 50px;
+        margin-top: 24px;
+        gap: 30px;
+    }
+}
